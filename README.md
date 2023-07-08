@@ -1,5 +1,4 @@
 Hi 👋, I'm Fatma Akpunar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Data Science and Python**
 
