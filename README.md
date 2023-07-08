@@ -1,6 +1,6 @@
 Hi 👋, I'm Fatma Akpunar</h1>
 
--🌍 I'm based in İstanbul-Eskişehir
+- 🌍 I'm based in İstanbul-Eskişehir
 
 - 🔭 I’m currently working on **Data Science and Python**
 
