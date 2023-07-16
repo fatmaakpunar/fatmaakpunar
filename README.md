@@ -1,4 +1,5 @@
-<img src="[http://url/to/img.png](https://media.licdn.com/dms/image/D4D16AQFvS_v5JNQiyw/profile-displaybackgroundimage-shrink_350_1400/0/1683643124325?e=1695254400&v=beta&t=asC91-zDj8TL4BseoqroJVNHLqf55HQ6r_Nwjj4T3YQ)" alt="alt text" width="320" height="180">
+<img src="![image](https://github.com/fatmaakpunar/fatmaakpunar/assets/123814832/3f1bc4a8-27f9-420d-9c45-aeb6bdfeac0c)
+" alt="alt text" width="320" height="180">
 
 Hi 👋, I'm Fatma Akpunar</h1>
 
