@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFvS_v5JNQiyw/profile-displaybackgroundimage-shrink_200_800/0/1683643124325?e=2147483647&v=beta&t=r1Y2E28PiRmeb8rVjktpSM7nbXuD4ZrHKawaZteUDQM" alt="alt text" width="640" height="180">
+<img src="https://media.licdn.com/dms/image/D4D16AQFvS_v5JNQiyw/profile-displaybackgroundimage-shrink_200_800/0/1683643124325?e=2147483647&v=beta&t=r1Y2E28PiRmeb8rVjktpSM7nbXuD4ZrHKawaZteUDQM" alt="alt text" width="900" height="180">
 
 Hi 👋, I'm Fatma Akpunar</h1>
 
