@@ -1,6 +1,6 @@
 Hi 👋, I'm Fatma Akpunar</h1>
 
-<img src="" width="1000" height="180">
+<img src="https://www.canva.com/design/DAFo0dDznZ8/K380WGjQawZr1lWmPqOIrw/view?website#2" width="1000" height="180">
 
 - 🌍 I'm based in İstanbul-Eskişehir
 
