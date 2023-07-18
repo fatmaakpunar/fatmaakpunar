@@ -26,7 +26,6 @@
 <a href="https://linkedin.com/in/fatmaakpunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmaakpunar" height="30" width="40" /></a>
 <a href="https://instagram.com/statisticstudent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="statisticstudent" height="30" width="40" /></a>
 <a href="https://medium.com/@fatmaakpunar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatmaakpunar42" height="30" width="40" /></a>
-<a href="https://discord.gg/fatmaakpunr#0620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fatmaakpunr#0620" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
