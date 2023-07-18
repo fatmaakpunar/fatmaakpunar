@@ -1,7 +1,5 @@
 Hi 👋, I'm Fatma Akpunar</h1>
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFFAAyhrzJTOQ/profile-displaybackgroundimage-shrink_350_1400/0/1689532266779?e=1695254400&v=beta&t=Jj4n379ITKGkyVMRpl_8MCUnSHdHzRyJgEtYOANAQEQ" width="1000" height="180">
-
 - 🌍 I'm based in İstanbul-Eskişehir
 
 - 🔭 I’m currently working on **Data Science and Python**
