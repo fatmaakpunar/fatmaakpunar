@@ -1,4 +1,17 @@
-Hi 👋, I'm Fatma Akpunar</h1>
+## : About Me
+
+<!-- About Me -->
+
+<p align="center"> 
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Kaushan Script&size=22&pause=1000&color=\033[96m&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Fatma+Akpunar+%C3%9Cnn%C3%BC!;" alt="Typing SVG" />
+        </a>
+    <br>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Kaushan Script&size=22&pause=1000&color=23ADBEFF&center=true&vCenter=true&width=435&lines=Statistics+Student+;Data+Science" alt="Typing SVG" />
+        </a>
+</p>
+<br>
 
 - 🌍 I'm based in İstanbul-Eskişehir
 
