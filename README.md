@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Data Science and Python**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **R**, **MATLAB**
 
 - 📫 How to reach me **fatmaakpunar42@gmail.com**
 
