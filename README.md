@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌍 I'm based in İstanbul-Eskişehir
+- 🌍 I'm based in Eskişehir
 
 - 🔭 I’m currently working on **Data Science and Python**
 
