@@ -1,5 +1,5 @@
 <h1 align="center">👋 Merhaba, Ben Fatma</h1>
-<h3 align="center">İstatistik Teorisi Yüksek Lisans Öğrencisi | Veri Bilimi & Optimizasyon Tutkunu</h3>
+<h3 align="center">İstatistik Teorisi Yüksek Lisans Öğrencisi</h3>
 
 <p align="center">
 Verilerden anlamlı hikayeler çıkarmayı ve karmaşık problemleri algoritmalarla çözmeyi seviyorum. İstatistiksel teoriyi, makine öğrenmesi ve derin öğrenme modelleriyle birleştirerek yenilikçi çözümler üretmeye odaklanıyorum.
