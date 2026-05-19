@@ -10,7 +10,7 @@ Verilerden anlamlı hikayeler çıkarmayı ve karmaşık problemleri algoritmala
 ### 🔬 Neler Yapıyorum?
 
 - 🎓 Eskişehir Teknik Üniversitesi'nde **İstatistik Teorisi** alanında yüksek lisansıma devam ediyorum.
-- ⚡ Şu sıralar derin öğrenme (**LSTM, XGBoost**) ve meta-sezgisel algoritmalar (örn. **Yapay Arı Kolonisi - ABC**) üstünde çalışıyorum.
+- ⚡ Şu sıralar derin öğrenme  ve meta-sezgisel algoritmalar  üstünde çalışıyorum.
 - 📊 Zaman serisi analizi, lineer modeller, matris cebiri ve olasılık dağılımları üzerine derinleşiyorum.
 
 
